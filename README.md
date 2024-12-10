@@ -1,5 +1,6 @@
 # P3HUD
 Recreation of the Persona 3 HUD in GTK! Displays moon information in the top left corner.
+![Screenshot of usage](https://raw.githubusercontent.com/gormae1/P3HUD/refs/heads/main/hud_usage.png)
 
 # Requirements 
 - libgtk3
